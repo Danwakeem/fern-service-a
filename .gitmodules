@@ -1,0 +1,3 @@
+[submodule "fern-def"]
+	path = fern-def
+	url = https://github.com/Danwakeem/fern-def
