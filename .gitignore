@@ -1,0 +1,7 @@
+.serverless
+.esbuild
+node_modules
+
+# Fern generated things
+src/generated
+example/sdk
